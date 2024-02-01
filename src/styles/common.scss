@@ -1,0 +1,9 @@
+@mixin text-ellipsis() {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@mixin backgroud-image($image-path: '') {
+  background: url($image-path) no-repeat center center/100% 100%;
+}

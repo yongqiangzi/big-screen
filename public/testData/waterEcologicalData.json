@@ -1,0 +1,210 @@
+{
+  "lakeData": {
+    "2019": {
+      "lakes": "119",
+      "lakeGoals": "172",
+      "pianqu": "42",
+      "pianquGoals": "80",
+      "length": "2800"
+    },
+    "2020": {
+      "lakes": "120",
+      "lakeGoals": "172",
+      "pianqu": "43",
+      "pianquGoals": "80",
+      "length": "2900"
+    },
+    "2021": {
+      "lakes": "121",
+      "lakeGoals": "172",
+      "pianqu": "44",
+      "pianquGoals": "80",
+      "length": "3000"
+    },
+    "2022": {
+      "lakes": "122",
+      "lakeGoals": "172",
+      "pianqu": "45",
+      "pianquGoals": "80",
+      "length": "3100"
+    }
+  },
+  "seaData": {
+    "2019": {
+      "seas": "1",
+      "seaGoals": "2",
+      "coastlineLength": "80",
+      "mainlandCoastlineLength": "245",
+      "mainlandCoastlineGoals": "259.775"
+    },
+    "2020": {
+      "seas": "1",
+      "seaGoals": "2",
+      "coastlineLength": "90",
+      "mainlandCoastlineLength": "246",
+      "mainlandCoastlineGoals": "259.775"
+    },
+    "2021": {
+      "seas": "1",
+      "seaGoals": "2",
+      "coastlineLength": "100",
+      "mainlandCoastlineLength": "247",
+      "mainlandCoastlineGoals": "259.775"
+    },
+    "2022": {
+      "seas": "1",
+      "seaGoals": "2",
+      "coastlineLength": "110",
+      "mainlandCoastlineLength": "248",
+      "mainlandCoastlineGoals": "259.775"
+    }
+  },
+  "classificationData": {
+    "2019": {
+      "list": [
+        {
+          "name": "鱼类",
+          "y": 2,
+          "h": 0,
+          "bfb": 0
+        },
+        {
+          "name": "浮游植物",
+          "y": 6,
+          "h": 0,
+          "bfb": 0
+        },
+        {
+          "name": "底栖生物",
+          "y": 4,
+          "h": 0,
+          "bfb": 0
+        }
+      ]
+    },
+    "2020": {
+      "list": [
+        {
+          "name": "鱼类",
+          "y": 12,
+          "h": 0,
+          "bfb": 0
+        },
+        {
+          "name": "浮游植物",
+          "y": 9,
+          "h": 0,
+          "bfb": 0
+        },
+        {
+          "name": "底栖生物",
+          "y": 5,
+          "h": 0,
+          "bfb": 0
+        }
+      ]
+    },
+    "2021": {
+      "list": [
+        {
+          "name": "鱼类",
+          "y": 9,
+          "h": 0,
+          "bfb": 0
+        },
+        {
+          "name": "浮游植物",
+          "y": 5,
+          "h": 0,
+          "bfb": 0
+        },
+        {
+          "name": "底栖生物",
+          "y": 8,
+          "h": 0,
+          "bfb": 0
+        }
+      ]
+    },
+    "2022": {
+      "list": [
+        {
+          "name": "鱼类",
+          "y": 10,
+          "h": 0,
+          "bfb": 0
+        },
+        {
+          "name": "浮游植物",
+          "y": 6,
+          "h": 0,
+          "bfb": 0
+        },
+        {
+          "name": "底栖生物",
+          "y": 14,
+          "h": 0,
+          "bfb": 0
+        }
+      ]
+    }
+  },
+  "healthData": {
+    "2019": {
+      "list": [
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        70,
+        70,
+        70
+      ]
+    },
+    "2020": {
+      "list": [
+        70,
+        70,
+        70,
+        70,
+        80,
+        80,
+        80,
+        70,
+        70,
+        70
+      ]
+    },
+    "2021": {
+      "list": [
+        80,
+        80,
+        80,
+        80,
+        80,
+        80,
+        80,
+        80,
+        80,
+        80
+      ]
+    },
+    "2022": {
+      "list": [
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90
+      ]
+    }
+  }
+}

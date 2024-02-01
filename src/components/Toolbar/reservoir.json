@@ -1,0 +1,4045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "石鼓门水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "流水岩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "卖柴岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "长岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "章圣寺水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "外牌楼水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "观顶水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "横岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "毛家坪水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "里湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "岙大里水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甘童水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "藤岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "里岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大庵水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "庄岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "西岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "潘岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "小岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "榧树潭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "祖庙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "皎口水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "周公宅水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "溪下水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "老鹰潭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "斧头岩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "狐狸洞水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "建设水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "上塘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "笆下水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "曼湾水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "长潭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "小松坑1号水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "长畈岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "陈西岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "巴吉岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "曹坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大庵坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "靠坑岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "松木岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "罗丝潭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大泄潭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "沙帽顶水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "洞口庙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "红泉水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "茅山头水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "箬帽岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "上游水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "凤凰山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "虎爬岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "九炮龙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "桐山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "蟹钳口水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "杨梅岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "黄坛水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "西溪水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "胡陈港水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "申坎头水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "白岩头水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "滴水岩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "福圣寺水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "红卫水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "乌烟筒水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "龙潭坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "上长潭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "洋山桥水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "石枧水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "上塘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "高增水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "外庵水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "朝定坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "坑门水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "岭坑庵水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "下林水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "里塘坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "红岩岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "上林水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "盖仓村龙潭坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "新宇水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "一市港水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "毛屿港水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "力洋水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "白溪水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大园山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "车岙港水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "花叉水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "曹家岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "上林湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "凤湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "灵湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "窖湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "郑徐水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "邵岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "长溪水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "牛头岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "徐夹岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "犁头岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "白洋湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "外杜湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "里杜湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "后茅山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "游源水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "梅湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "平石水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "横坑里水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大乌岩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大湾里水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "樊岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "洗网塘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "东坑里水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "小百丈水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "黄金坦水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "施娘岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "利民水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "三家村水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "里山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "堰台坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "金架山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "马盘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "牛山堰水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "岙底水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "隔岭塘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "丁家塘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "下马岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "倒流水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "岩头陈水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "松岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "石壁山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "岙肚里水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "尖岭坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "南盘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "兴坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "马岗水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "新民水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "九顷水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "溪口水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "北面洋水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "赤坎水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "隔溪张水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "方家岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "仓岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "柴溪水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "刘家岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "田洋里水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "双岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "上张水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "鲫鱼山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "西河潭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "燕山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "青湾水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "里考坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "林善岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "岩山弄水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "龙角岩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大双岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "水流桥水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "双溪弄水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "桐岭坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "拗水丘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "洪山庙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "珠山岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "塘岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "珠溪水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "洪家坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大斜桥水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "溪沿水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "下庄水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "蒲门水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大塘港水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大坞坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "白粉壁水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "柏坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "山登水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "石头岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "滴水墩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大泉坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "苦竹亮水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "石门岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "炭子坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "卫星水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "尹家水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "双闸门水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "寺坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "石柱岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "岭下水库（冷西村）",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "桃山弄水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "后岙弄水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "胡夹岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "登山寺水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "塔里坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "南坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "云西庵水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "合时岩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "后山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "三星桥水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "马岙山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "清凉寺水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大埠水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "新凉亭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大茅岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "兴化山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "舍网水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大埠丘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "后门坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "樟岙岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "屯夹岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "长岙弄水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "九峰山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "石马水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "王相公水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "官田弄水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "银峰水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "泰清山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "王夹岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "老莫夹岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "新莫夹岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "金地水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "郑夹岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大石坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "印家坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "淡水湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "西岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "岭下水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "杜岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "石井坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "横坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "五百岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "里岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "新岭岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "驻岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "城西岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "牛角固水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "船底坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "茶坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "周坑岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "张岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "江九岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "乌石弄水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "马岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大化水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "四明桥水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "水口水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "茗山缺水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "慈觉寺水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "武岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "亭下水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "蓄能下库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "陈家水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "蓄能上库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "状元岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "横山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "角洞岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "茅岭墩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "龙潭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "南岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "东钱湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "寨基水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "宣化堰水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "梨园殿水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "燕尾巴水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "红山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "群英水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "茅洋水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "石门水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "长水流水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "畈岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "孙家盘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "黄龙坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "王家麓水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "瑞岩寺水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "城湾水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "乌竹园水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "紫微岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "香灵庵水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甘湾水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "上苔岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "石佛堂水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "华岩寺水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "华峙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "新路岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "祝家坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "吉祥岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "灵峰水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "庄岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "岙涨水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "千亩岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "沈家湾水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "苔岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "炮台水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "姜湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "荪湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "五婆湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "幸福水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "下寺坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "宓家山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "唐田二级水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大茅岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "茶培水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "棠溪一级水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "步梯岩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "峡口水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "茅湾水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "屏风山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "岩下山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大横山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大岩下水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "下坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "龙潭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "华山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "王石坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "横泾水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "纺车岩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "后路田水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "小黄泥岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "百丈水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "杨树湾水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "黄纸厂水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "龙溪水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "上村水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "百丈岗水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "串水岩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "横岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "后杨岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "森林水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "黄明水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "双溪口水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "陶徐冯水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "桃花岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "陆埠水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "车厩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "张公岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "梁辉水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "向家弄水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "前溪湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "姚岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "相岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "姚岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "友谊水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "寺前王水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "丈梅水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大池墩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "烂蛇弄水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "穴湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "铁顶山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大湖底水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "黄湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "三圣殿水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "小洞岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "郎家坪水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "秦山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "十字路水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "四明湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "铁砂岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "栎斜水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "黄金岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "新田里水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "珠山寺水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "石门水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "黄通岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "黄家田水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大盘山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大岩岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "朵柱岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "文台水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "尖山墩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大石门水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甲岙岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "斜红岩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "华家山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "东家山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "张家山水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "里坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "小岭头水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "三溪浦水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "梅溪水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "横溪水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "毛力水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "英雄水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "平潭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "东谷湖水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "官司塘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "西泽海涂水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "俞公岙海涂水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大江口水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "墩岙塘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "高坎头水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "高湾海涂水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "黄沙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "军民塘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "南方塘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "万进水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "小乌岩水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "跃进塘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "郑家塘水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "义岙坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "牛坑水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大高子水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "金夫湾水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "寺祥岭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "小溪岙水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "壶潭水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "四灶浦水库",
+        "LX": "水库"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "山坑水库",
+        "LX": "水库"
+      }
+    }
+  ]
+}

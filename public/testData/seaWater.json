@@ -1,0 +1,23 @@
+{
+  "data": {
+    "waterLevel": [
+      {
+        "name": "Ⅰ至Ⅳ类  ",
+        "y": 76.2,
+        "h": 0,
+        "bfb": 0
+      },
+      {
+        "name": "劣Ⅳ类 ",
+        "y": 23.8,
+        "h": 0,
+        "bfb": 0
+      }
+    ],
+    "standardSituation": {
+      "current": "76.2",
+      "contrast": "61/80",
+      "target": "78"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+export default {
+  leftDown: 0,
+  leftUp: 1,
+  click: 2,
+  doubleClick: 3,
+  rightDown: 5,
+  rightUp: 6,
+  rightClick: 7,
+  middleDown: 10,
+  middleUp: 11,
+  middleClick: 12,
+  mouseMove: 15,
+  wheel: 16,
+  pinchStart: 17,
+  pinchEnd: 18,
+  pinchMove: 19,
+};

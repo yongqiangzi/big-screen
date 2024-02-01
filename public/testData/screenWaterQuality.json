@@ -1,0 +1,417 @@
+{
+  "warningStatistic": [
+    {
+      "icon": "images/waterEnvScreen/bg_warning_statistic_1.png",
+      "value": "1896",
+      "text": "浓度超标<br/>告警预警"
+    },
+    {
+      "icon": "images/waterEnvScreen/bg_warning_statistic_2.png",
+      "value": "218",
+      "text": "视频监控<br/>AI告警"
+    },
+    {
+      "icon": "images/waterEnvScreen/bg_warning_statistic_3.png",
+      "value": "463",
+      "text": "水质预测<br/>风险预警"
+    },
+    {
+      "icon": "images/waterEnvScreen/bg_warning_statistic_4.png",
+      "value": "31",
+      "text": "汛期网险<br/>预警"
+    }
+  ],
+  "excessiveWarning": [
+    {
+      "name": "四灶浦闸",
+      "level": "二级",
+      "type": "PH",
+      "time": "2023/12/25 16:00"
+    },
+    {
+      "name": "长汀",
+      "level": "二级",
+      "type": "PH",
+      "time": "2023/12/25 16:00"
+    },
+    {
+      "name": "北湖中心",
+      "level": "二级",
+      "type": "氨氮",
+      "time": "2023/12/25 16:00"
+    },
+    {
+      "name": "北湖中心",
+      "level": "一级",
+      "type": "氨氮",
+      "time": "2023/12/25 12:00"
+    },
+    {
+      "name": "长汀",
+      "level": "一级",
+      "type": "PH",
+      "time": "2023/12/25 12:00"
+    },
+    {
+      "name": "水车",
+      "level": "一级",
+      "type": "CODMn",
+      "time": "2023/12/25 08:00"
+    },
+    {
+      "name": "四灶浦闸",
+      "level": "一级",
+      "type": "PH",
+      "time": "2023/12/25 08:00"
+    },
+    {
+      "name": "长汀",
+      "level": "一级",
+      "type": "PH",
+      "time": "2023/12/25 08:00"
+    },
+    {
+      "name": "四灶浦闸",
+      "level": "一级",
+      "type": "PH",
+      "time": "2023/12/25 04:00"
+    },
+    {
+      "name": "长汀",
+      "level": "一级",
+      "type": "PH",
+      "time": "2023/12/25 04:00"
+    }
+  ],
+  "surfaceExcessiveProportion": [
+    {
+      "name": "总磷",
+      "y": 245,
+      "h": 0,
+      "bfb": 0
+    },
+    {
+      "name": "氨氮",
+      "y": 129,
+      "h": 0,
+      "bfb": 0
+    },
+    {
+      "name": "CODMn",
+      "y": 364,
+      "h": 0,
+      "bfb": 0
+    },
+    {
+      "name": "溶解氧",
+      "y": 183,
+      "h": 0,
+      "bfb": 0
+    },
+    {
+      "name": "PH",
+      "y": 965,
+      "h": 0,
+      "bfb": 0
+    }
+    ,
+    {
+      "name": "总氮",
+      "y": 108,
+      "h": 0,
+      "bfb": 0
+    }
+  ],
+  "standardWarning": [
+    {
+      "name": "北湖中心",
+      "location": "东钱湖",
+      "county": "东钱湖",
+      "water1": "Ⅱ类",
+      "water2": "Ⅲ类",
+      "dabiao": "达标",
+      "average": "达标"
+    },
+    {
+      "name": "溪口",
+      "location": "剡江",
+      "county": "奉化",
+      "water1": "Ⅱ类",
+      "water2": "Ⅱ类",
+      "dabiao": "达标",
+      "average": "达标"
+    },
+    {
+      "name": "长汀",
+      "location": "县江",
+      "county": "奉化",
+      "water1": "Ⅱ类",
+      "water2": "Ⅲ类",
+      "dabiao": "达标",
+      "average": "达标"
+    },
+    {
+      "name": "梁桥",
+      "location": "鄞江",
+      "county": "海曙",
+      "water1": "Ⅱ类",
+      "water2": "Ⅱ类",
+      "dabiao": "达标",
+      "average": "达标"
+    },
+    {
+      "name": "清林渡",
+      "location": "姚江",
+      "county": "江北",
+      "water1": "Ⅲ类",
+      "water2": "Ⅲ类",
+      "dabiao": "达标",
+      "average": "达标"
+    },
+    {
+      "name": "水车",
+      "location": "白溪",
+      "county": "宁海",
+      "water1": "Ⅱ类",
+      "water2": "Ⅱ类",
+      "dabiao": "达标",
+      "average": "达标"
+    },
+    {
+      "name": "浮礁渡",
+      "location": "大塘港",
+      "county": "象山",
+      "water1": "Ⅲ类",
+      "water2": "Ⅲ类",
+      "dabiao": "达标",
+      "average": "达标"
+    },
+    {
+      "name": "大嵩",
+      "location": "大嵩江",
+      "county": "鄞州",
+      "water1": "Ⅱ类",
+      "water2": "Ⅱ类",
+      "dabiao": "达标",
+      "average": "达标"
+    },
+    {
+      "name": "菁江渡(浦口闸)",
+      "location": "姚江",
+      "county": "余姚",
+      "water1": "Ⅱ类",
+      "water2": "Ⅲ类",
+      "dabiao": "达标",
+      "average": "达标"
+    },
+    {
+      "name": "游山",
+      "location": "甬江",
+      "county": "镇海",
+      "water1": "Ⅲ类",
+      "water2": "Ⅲ类",
+      "dabiao": "达标",
+      "average": "达标"
+    },
+    {
+      "name": "四灶浦闸",
+      "location": "四灶浦",
+      "county": "杭州湾",
+      "water1": "Ⅴ类",
+      "water2": "",
+      "dabiao": "未达标",
+      "average": "达标"
+    }
+  ],
+  "pollutionIntensity": [
+    {
+      "name": "北湖中心",
+      "location": "东钱湖",
+      "county": "东钱湖",
+      "qiangdu": "12.4",
+      "pollution": "CODMn"
+    },
+    {
+      "name": "溪口",
+      "location": "剡江",
+      "county": "奉化",
+      "qiangdu": "10.3",
+      "pollution": "CODMn"
+    },
+    {
+      "name": "长汀",
+      "location": "县江",
+      "county": "奉化",
+      "qiangdu": "0.361",
+      "pollution": "总磷"
+    },
+    {
+      "name": "梁桥",
+      "location": "鄞江",
+      "county": "海曙",
+      "qiangdu": "0.314",
+      "pollution": "总磷"
+    },
+    {
+      "name": "清林渡",
+      "location": "姚江",
+      "county": "江北",
+      "qiangdu": "0.385",
+      "pollution": "总磷"
+    },
+    {
+      "name": "水车",
+      "location": "白溪",
+      "county": "宁海",
+      "qiangdu": "9.05",
+      "pollution": "PH"
+    },
+    {
+      "name": "浮礁渡",
+      "location": "大塘港",
+      "county": "象山",
+      "qiangdu": "11.8",
+      "pollution": "CODMn"
+    },
+    {
+      "name": "大嵩",
+      "location": "大嵩江",
+      "county": "鄞州",
+      "qiangdu": "10.6",
+      "pollution": "CODMn"
+    },
+    {
+      "name": "菁江渡(浦口闸)",
+      "location": "姚江",
+      "county": "余姚",
+      "qiangdu": "3.4",
+      "pollution": "溶解氧"
+    },
+    {
+      "name": "游山",
+      "location": "甬江",
+      "county": "镇海",
+      "qiangdu": "9.13",
+      "pollution": "PH"
+    },
+    {
+      "name": "四灶浦闸",
+      "location": "四灶浦",
+      "county": "杭州湾",
+      "qiangdu": "9.08",
+      "pollution": "PH"
+    }
+  ],
+  "sectionStatistics": {
+    "countyDistribution": [
+      {
+        "value": 1,
+        "name": "海曙区"
+      },
+      {
+        "value": 1,
+        "name": "北仑区"
+      },
+      {
+        "value": 2,
+        "name": "鄞州区"
+      },
+      {
+        "value": 1,
+        "name": "宁海县"
+      },
+      {
+        "value": 3,
+        "name": "余姚市"
+      },
+      {
+        "value": 3,
+        "name": "慈溪市"
+      }
+    ],
+    "polDistribution": [
+      {
+        "value": 4,
+        "name": "CODMn"
+      },
+      {
+        "value": 2,
+        "name": "PH"
+      },
+      {
+        "value": 3,
+        "name": "溶解氧"
+      },
+      {
+        "value": 5,
+        "name": "氨氮"
+      },
+      {
+        "value": 6,
+        "name": "总磷"
+      },
+      {
+        "value": 4,
+        "name": "总氮"
+      }
+    ]
+  },
+  "waterMonitorWarn": [
+    {
+      "name": "一般预警",
+      "y": 28,
+      "h": 0,
+      "bfb": 0
+    },
+    {
+      "name": "关注提醒",
+      "y": 44,
+      "h": 0,
+      "bfb": 0
+    },
+    {
+      "name": "重点预警",
+      "y": 62,
+      "h": 0,
+      "bfb": 0
+    }
+  ],
+  "overStandardWarn": {
+    "202301": {
+      "value": 90
+    },
+    "202302": {
+      "value": 109
+    },
+    "202303": {
+      "value": 88
+    },
+    "2023040000": {
+      "value": 46
+    },
+    "2023050000": {
+      "value": 67
+    },
+    "2023060000": {
+      "value": 98
+    },
+    "2023070000": {
+      "value": 145
+    },
+    "2023080000": {
+      "value": 186
+    },
+    "2023090000": {
+      "value": 120
+    },
+    "2023100000": {
+      "value": 87
+    },
+    "2023110000": {
+      "value": 72
+    },
+    "2023120000": {
+      "value": 61
+    }
+  }
+}

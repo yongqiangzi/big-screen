@@ -1,0 +1,28 @@
+.sec {
+  position: fixed;
+  right: 5.5rem;
+  bottom: calc(1.28rem + 5 * 0.18rem);
+  display: flex;
+  align-items: center;
+  height: auto;
+  margin: auto;
+  margin-right: 0;
+  font-size: 0.16rem;
+  background: rgb(9 9 58 / 80%);
+  opacity: 0.9;
+
+  .tool-kit {
+    padding: 0.05rem;
+    background: none;
+    border: 1px solid rgb(133 188 255 / 0%);
+
+    &.selected {
+      color: #eaeef3;
+      background: rgb(22 106 231);
+      border: 1px solid #84bbff;
+    }
+
+    border-radius: 2px;
+    box-shadow: 0 2px 6px 0 rgb(0 0 0 / 11%);
+  }
+}

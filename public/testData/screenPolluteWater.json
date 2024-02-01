@@ -1,0 +1,162 @@
+{
+  "paiShuiHu":[
+    {
+      "text":"工业园区",
+      "value":126
+    },
+    {
+      "text":"镇（街道）",
+      "value":240
+    },
+    {
+      "text":"生活小区",
+      "value":108
+    },
+    {
+      "text":"五小",
+      "value":1308
+    }
+  ],
+  "parkConstruction":[
+    {
+      "name":"霞浦台塑台化工业园区“污水零直排区”建设项目",
+      "label1":"企业数量",
+      "value1":12,
+      "label2":"计划完成时间",
+      "value2":"2023年8月30日",
+      "label3":"投资金额",
+      "value3":85
+    },
+    {
+      "name":"春晓工业园区“污水零直排区”建设项目",
+      "label1":"企业数量",
+      "value1":208,
+      "label2":"计划完成时间",
+      "value2":"2023年5月30日",
+      "label3":"投资金额",
+      "value3":85
+    }
+  ],
+  "target":[
+    {
+      "name":"雨污合流改造提升",
+      "value":111.5,
+      "target":136
+    },
+    {
+      "name":"老旧管网改造",
+      "value":220.5,
+      "target":294
+    },
+    {
+      "name":"新建污水管网",
+      "value":460,
+      "target":500
+    },
+    {
+      "name":"污水总管",
+      "value":7290,
+      "target":7770
+    }
+  ],
+  "task":{
+    "normalTask":{
+      "taskName":"创建生活小区“污水零直排”",
+      "taskStatus":"正常",
+      "taskUnit":"市住建局",
+      "taskList":{
+          "currentPercentage":78,
+          "currentTarget":100,
+          "targetPercentage":100,
+          "targetValue":307
+        }
+    },
+    "lateTask":{
+      "taskName":"实施重点区域管网“提质攻坚”工程",
+      "taskStatus":"滞后",
+      "taskUnit":"市生态环境局、市五水共治办",
+      "taskList":[
+        {
+          "name":"126个重点工业园区“污水零直排区”建设覆盖率",
+          "currentPercentage":100,
+          "year":"2023年",
+          "currentTarget":100
+        },
+        {
+          "name":"全市镇（街道）“污水零直排区”省级创建完成率",
+          "currentPercentage":100,
+          "year":"2023年",
+          "currentTarget":100
+        },
+        {
+          "name":"学校、医院、建筑工地、沿街“五小”、三产服务业等雨污分流改造率",
+          "currentPercentage":75,
+          "year":"2025年",
+          "currentTarget":100
+        }
+      ]
+    }
+  },
+  "projectMoney": {
+    "xAxisData":["海曙区", "江北区", "北仑区", "镇海区", "鄞州区", "奉化区", "象山县", "宁海县", "余姚市", "慈溪市"],
+    "centerMoney":[873, 421, 715, 496, 336, 723, 697, 641, 864, 738],
+    "provinceMoney":[435, 236, 152, 249, 316, 573, 255, 465, 384, 578]
+  },
+  "projectNums":{
+    "xAxisData":["海曙区", "江北区", "北仑区", "镇海区", "鄞州区", "奉化区", "象山县", "宁海县", "余姚市", "慈溪市"],
+    "chartData":[86, 121, 115, 49, 36, 73, 97, 61, 84, 78]
+  },
+  "projectTypes":[],
+  "projectRanking":[
+    {
+      "index": "NO.1",
+      "county": "海曙区",
+      "value": 95
+    },
+    {
+      "index": "NO.2",
+      "county": "江北区",
+      "value": 92
+    },
+    {
+      "index": "NO.3",
+      "county": "北仑区",
+      "value": 88
+    },
+    {
+      "index": "NO.4",
+      "county": "镇海区",
+      "value": 84
+    },
+    {
+      "index": "NO.5",
+      "county": "鄞州区",
+      "value": 83
+    },
+    {
+      "index": "NO.6",
+      "county": "奉化区",
+      "value": 81
+    },
+    {
+      "index": "NO.7",
+      "county": "象山县",
+      "value": 79
+    },
+    {
+      "index": "NO.8",
+      "county": "宁海县",
+      "value": 79
+    },
+    {
+      "index": "NO.9",
+      "county": "余姚市",
+      "value": 78
+    },
+    {
+      "index": "NO.10",
+      "county": "慈溪市",
+      "value": 76
+    }
+  ]
+}

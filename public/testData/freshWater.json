@@ -1,0 +1,124 @@
+{
+  "data": {
+    "lastYearSynchronism": "97",
+    "waterType": [
+      {
+        "key": "river",
+        "name": "河流型供水占比",
+        "value": "25"
+      },
+      {
+        "key": "lakes",
+        "name": "湖泊型供水占比",
+        "value": "35"
+      },
+      {
+        "key": "reservoir",
+        "name": "水库型供水占比",
+        "value": "40"
+      }
+    ],
+    "details": {
+      "totalWaterIntaking": "21.67",
+      "serviceArea": "9618",
+      "servicePeople": "961.8"
+    },
+    "waterLevel": [
+      {
+        "name": "Ⅰ类",
+        "y": 23.08,
+        "h": 0,
+        "bfb": 0
+      },
+      {
+        "name": "Ⅱ类",
+        "y": 53.84,
+        "h": 0,
+        "bfb": 0
+      },
+      {
+        "name": "Ⅲ类",
+        "y": 23.08,
+        "h": 0,
+        "bfb": 0
+      }
+    ],
+    "standardSituation": {
+      "current": "100",
+      "contrast": "13/13",
+      "target": "100"
+    },
+    "waterQuality": [
+      {
+        "name": "亭下水库水源地",
+        "county": "奉化区",
+        "type": "",
+        "water1": "I类",
+        "average": "达标"
+      },
+      {
+        "name": "周公宅-皎口水库水源地",
+        "county": "鄞州区",
+        "type": "",
+        "water1": "I类",
+        "average": "达标"
+      },
+      {
+        "name": "横山水库水源地",
+        "county": "奉化区",
+        "type": "",
+        "water1": "I类",
+        "average": "达标"
+      },
+      {
+        "name": "白溪水库水源地",
+        "county": "宁海县",
+        "type": "",
+        "water1": "I类",
+        "average": "达标"
+      },
+      {
+        "name": "四明湖水库水源地",
+        "county": "余姚市",
+        "type": "",
+        "water1": "I类",
+        "average": "达标"
+      },
+      {
+        "name": "梁辉水库水源地",
+        "county": "余姚市",
+        "type": "",
+        "water1": "I类",
+        "average": "达标"
+      },
+      {
+        "name": "陆埠水库水源地",
+        "county": "余姚市",
+        "type": "",
+        "water1": "I类",
+        "average": "达标"
+      },
+      {
+        "name": "双溪口水库水源地",
+        "county": "余姚市",
+        "type": "",
+        "water1": "I类",
+        "average": "达标"
+      },
+      {
+        "name": "上林湖水库水源地",
+        "county": "慈溪市",
+        "type": "",
+        "water1": "I类",
+        "average": "达标"
+      },
+      {
+        "name": "溪口水库水源地",
+        "county": "象山县",
+        "type": "",
+        "water1": "I类",
+        "average": "达标"
+      }
+    ]
+  }
+}

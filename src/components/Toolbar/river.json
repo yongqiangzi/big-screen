@@ -1,0 +1,5015 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "七塘横江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "临海大浦",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "四塘横江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "湖塘江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "青山港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "陶家路江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "马渚中河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "姚江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "西晦溪上",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "长冷江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "周家路江（西河）",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "周家路江（西河）",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "建塘江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "西江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "候青江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "中江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "中山河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "西晦溪下",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "垫桥路江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "三八江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "八塘横江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "筠溪江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "东江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "东横河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "最良江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "洋溪河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "岩头江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "跸驻江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "潮塘横江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "漾山路江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "陆中湾",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "梅湖江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "清溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "县溪上",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "县溪中",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "新城河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "茗山江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "革溪江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "西游泾江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "万竹溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "县溪下",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "三塘横江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "三塘横江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "泉溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "上林湖江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "东横河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "外婆溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "十塘横江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "清源溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "四灶浦",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "条宅江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "水云浦",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "隐溪河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "慈江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "慈江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "郭塘河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "亭下总渠",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "庄家溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "大浦湾河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "姚江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "安仁河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "十一塘横江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "剡江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "中部八塘横江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "半掘浦",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "西洋港河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "鱼山河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "东大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "海曙前塘河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "白溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "大溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "凫溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "颜公河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "集士港河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "下陈江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "鄞江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "三塘横江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "姚江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "中横河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "剡江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "淞浦",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "竺山江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "湖泊河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "奉化江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "官山河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "奉化江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "风棚碶河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "河滩浦河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "高背浦",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "东江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "县江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "东江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "裘市大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "千丈镜河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "倪家碶河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "徐家浦",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "茅家河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": ""
+      },
+      "properties": {
+        "NAME": "汶溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "海曙中塘河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "南新塘河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "姚家河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "奉化江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "奉化江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "奉化江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "降渚溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "舍网溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "淡水泓",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "洋市中心河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "白杜港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "柳西河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "金溪新开河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "西塘河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "蔡家河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "金溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "南塘河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "护城河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "庄桥河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "三桥江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甬新河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "后大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "江北大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "庄桥河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "英雄河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "茶院溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "姚江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "奉化江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "前塘河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "西大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "浜子港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "印洪碶河（后西河）",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "力洋溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "九曲河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "十塘横江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "镇龙浦",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甬新河2",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "箭港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "大东江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甬江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "箭港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "小洋江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "鄞东南沿山干河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "后塘河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甬新河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "峻壁溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "杨木碶河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "中塘河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "姚江东排北支线（沿山大河）",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "杨木碶河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "中大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "小洋江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "新杨木碶河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "西仓溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "新杨木碶河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "中塘河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甬新河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甬江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甸张港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "大东江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甸张港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "下沈港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "陈郎桥江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "万弓塘河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "新泓口河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "郭家港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "渡驾桥江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "渡驾桥江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甬江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "鄞东南沿山干河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "鄞东南沿山干河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "鄞东南沿山干河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "中堡溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "三眼桥江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "淡港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "经十二路支河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "小浃江支河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "小浃江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "中大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "通途路支河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大涵山港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "环冯家斗河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "后塘河（区级）",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "冯家斗支河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "车岙港",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "东胡家支河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "蔚斗小浃江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "小浃江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甬江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "甬江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "咸祥河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "沿山大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "通途路南河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "富春江河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "凤洋河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "管溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "亭溪",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "清水河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "大嵩江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "华山路河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "中河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "东沙连河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "岩河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "东泰河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "NAME": "定向河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "沙湾河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "庙河江",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "宝新钢厂河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "毛礁河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "洪溪河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "三山大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "庙河江芦江连接河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "春晓东直河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "西大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "横大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "柴桥东直河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "柴桥街河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "柴桥河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "笠帽礁河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "芦江大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "南大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "金石引河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "东大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "大浦河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "东排河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "梅山大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon"
+      },
+      "properties": {
+        "NAME": "白峰大河",
+        "LX": "河道"
+      }
+    },
+    {
+      "type": "Feature",
+      "": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              369896.70380000025,
+              3308301.2074999996
+            ],
+            [
+              369891.4155000001,
+              3308304.6467000004
+            ],
+            [
+              369887.96549999993,
+              3308308.537799999
+            ],
+            [
+              369884.36649999954,
+              3308312.989600001
+            ],
+            [
+              369884.0477999998,
+              3308313.5786000006
+            ],
+            [
+              369883.72780000046,
+              3308314.1700999998
+            ],
+            [
+              369880.8746999996,
+              3308320.1075
+            ],
+            [
+              369879.9243999999,
+              3308322.436899999
+            ],
+            [
+              369872.26520000026,
+              3308341.2118999995
+            ],
+            [
+              369871.1776999999,
+              3308343.511600001
+            ],
+            [
+              369870.1091,
+              3308345.771400001
+            ],
+            [
+              369859.2860000003,
+              3308365.6481
+            ],
+            [
+              369851.2483000001,
+              3308383.6883000005
+            ],
+            [
+              369839.95639999956,
+              3308411.8457999993
+            ],
+            [
+              369824.5661000004,
+              3308449.9966
+            ],
+            [
+              369816.30840000045,
+              3308470.4661
+            ],
+            [
+              369795.1950000003,
+              3308522.7026000004
+            ],
+            [
+              369787.41089999955,
+              3308541.8916999996
+            ],
+            [
+              369787.0667000003,
+              3308541.6828000005
+            ],
+            [
+              369786.0192999998,
+              3308541.0480000004
+            ],
+            [
+              369782.8186999997,
+              3308539.594900001
+            ],
+            [
+              369781.8847000003,
+              3308539.1909999996
+            ],
+            [
+              369780.8869000003,
+              3308538.7650000006
+            ],
+            [
+              369780.3898,
+              3308538.5733000003
+            ],
+            [
+              369779.8830000004,
+              3308538.537900001
+            ],
+            [
+              369779.20770000014,
+              3308538.5555000007
+            ],
+            [
+              369778.3641999997,
+              3308538.642999999
+            ],
+            [
+              369778.0409000004,
+              3308538.9581000004
+            ],
+            [
+              369777.4676000001,
+              3308539.7075999994
+            ],
+            [
+              369777.05960000027,
+              3308540.838300001
+            ],
+            [
+              369776.96740000043,
+              3308541.390900001
+            ],
+            [
+              369776.7838000003,
+              3308542.2918999996
+            ],
+            [
+              369776.7544999998,
+              3308543.4760999996
+            ],
+            [
+              369776.9154000003,
+              3308545.2925000004
+            ],
+            [
+              369783.2622999996,
+              3308548.7577
+            ],
+            [
+              369783.55900000036,
+              3308550.1088999994
+            ],
+            [
+              369783.7729000002,
+              3308551.082800001
+            ],
+            [
+              369782.8849999998,
+              3308553.182
+            ],
+            [
+              369778.59920000006,
+              3308563.6065999996
+            ],
+            [
+              369776.0228000004,
+              3308569.873400001
+            ],
+            [
+              369774.6643000003,
+              3308573.0830000006
+            ],
+            [
+              369771.0351999998,
+              3308581.752800001
+            ],
+            [
+              369770.6194000002,
+              3308582.1021999996
+            ],
+            [
+              369768.44990000036,
+              3308583.9262000006
+            ],
+            [
+              369765.68709999975,
+              3308582.921
+            ],
+            [
+              369764.96779999975,
+              3308584.7619000003
+            ],
+            [
+              369763.6651999997,
+              3308584.3566999994
+            ],
+            [
+              369761.18290000036,
+              3308590.7660000008
+            ],
+            [
+              369762.6210000003,
+              3308591.2613999993
+            ],
+            [
+              369757.0318,
+              3308606.0886000004
+            ],
+            [
+              369760.7324000001,
+              3308607.7086999994
+            ],
+            [
+              369753.2876000004,
+              3308625.7710999995
+            ],
+            [
+              369743.9028000003,
+              3308648.0962000005
+            ],
+            [
+              369743.8457000004,
+              3308648.2310000006
+            ],
+            [
+              369739.1497999998,
+              3308659.2673000004
+            ],
+            [
+              369732.5401999997,
+              3308674.876
+            ],
+            [
+              369725.68099999987,
+              3308691.2621999998
+            ],
+            [
+              369716.9907999998,
+              3308711.9214999992
+            ],
+            [
+              369716.5820000004,
+              3308711.8038
+            ],
+            [
+              369711.51300000027,
+              3308709.9573999997
+            ],
+            [
+              369712.61039999966,
+              3308706.300899999
+            ],
+            [
+              369710.84470000025,
+              3308705.822899999
+            ],
+            [
+              369709.7120000003,
+              3308709.9308
+            ],
+            [
+              369708.76269999985,
+              3308709.6951
+            ],
+            [
+              369706.96729999967,
+              3308715.9124
+            ],
+            [
+              369703.7455000002,
+              3308716.3105999995
+            ],
+            [
+              369703.65940000024,
+              3308717.916200001
+            ],
+            [
+              369703.0752999997,
+              3308718.0716999993
+            ],
+            [
+              369702.8354000002,
+              3308718.927100001
+            ],
+            [
+              369710.61039999966,
+              3308719.444700001
+            ],
+            [
+              369712.90950000007,
+              3308720.5540999994
+            ],
+            [
+              369713.44010000024,
+              3308720.8102
+            ],
+            [
+              369703.76269999985,
+              3308744.0682999995
+            ],
+            [
+              369696.2385,
+              3308761.9145
+            ],
+            [
+              369695.23319999967,
+              3308764.3345
+            ],
+            [
+              369690.90189999994,
+              3308774.6308999993
+            ],
+            [
+              369682.7626,
+              3308794.323999999
+            ],
+            [
+              369680.9497999996,
+              3308793.5612000003
+            ],
+            [
+              369679.11000000034,
+              3308792.955
+            ],
+            [
+              369678.7905000001,
+              3308793.737400001
+            ],
+            [
+              369672.67310000025,
+              3308808.3125
+            ],
+            [
+              369672.1838999996,
+              3308809.2359999996
+            ],
+            [
+              369673.6024000002,
+              3308809.7907999996
+            ],
+            [
+              369675.9526000004,
+              3308810.686899999
+            ],
+            [
+              369672.8569,
+              3308818.1421000008
+            ],
+            [
+              369670.0356999999,
+              3308824.9361000005
+            ],
+            [
+              369669.8613999998,
+              3308825.3494000006
+            ],
+            [
+              369669.75710000005,
+              3308825.6016000006
+            ],
+            [
+              369667.95940000005,
+              3308829.836100001
+            ],
+            [
+              369666.3092,
+              3308833.4180999994
+            ],
+            [
+              369665.7910000002,
+              3308834.9646000005
+            ],
+            [
+              369665.2728000004,
+              3308836.511
+            ],
+            [
+              369665.08359999955,
+              3308837.5648999996
+            ],
+            [
+              369664.78949999996,
+              3308839.0471
+            ],
+            [
+              369664.8975999998,
+              3308842.2535999995
+            ],
+            [
+              369665.5119000003,
+              3308844.4120000005
+            ],
+            [
+              369665.6146999998,
+              3308844.5808000006
+            ],
+            [
+              369665.54169999994,
+              3308845.7541000005
+            ],
+            [
+              369664.91050000023,
+              3308855.8992
+            ],
+            [
+              369663.9835999999,
+              3308870.6099999994
+            ],
+            [
+              369663.9779000003,
+              3308870.8892
+            ],
+            [
+              369663.01970000006,
+              3308870.6034999993
+            ],
+            [
+              369661.8399,
+              3308870.3867000006
+            ],
+            [
+              369660.64279999956,
+              3308870.3094999995
+            ],
+            [
+              369659.64410000015,
+              3308870.353
+            ],
+            [
+              369658.8510999996,
+              3308870.4579000007
+            ],
+            [
+              369658.4910000004,
+              3308870.6433000006
+            ],
+            [
+              369657.45720000006,
+              3308871.075200001
+            ],
+            [
+              369655.54420000035,
+              3308871.8749
+            ],
+            [
+              369653.92870000005,
+              3308872.9034
+            ],
+            [
+              369652.73790000007,
+              3308873.8232000005
+            ],
+            [
+              369651.3206000002,
+              3308876.1570999995
+            ],
+            [
+              369651.1612,
+              3308876.437999999
+            ],
+            [
+              369649.7062999997,
+              3308879.4389999993
+            ],
+            [
+              369648.93340000045,
+              3308881.0330999997
+            ],
+            [
+              369648.6242000004,
+              3308881.6874
+            ],
+            [
+              369646.37480000034,
+              3308886.3610999994
+            ],
+            [
+              369645.0909000002,
+              3308889.1597000007
+            ],
+            [
+              369638.5831000004,
+              3308902.8904999997
+            ],
+            [
+              369627.88850000035,
+              3308925.2936000004
+            ],
+            [
+              369621.61259999964,
+              3308938.411699999
+            ],
+            [
+              369617.8053000001,
+              3308946.3267
+            ],
+            [
+              369611.71329999994,
+              3308959.2295999993
+            ],
+            [
+              369606.44880000036,
+              3308970.3969
+            ],
+            [
+              369603.7090999996,
+              3308976.1131999996
+            ],
+            [
+              369590.7150999997,
+              3309003.4406000003
+            ],
+            [
+              369582.94299999997,
+              3309019.923800001
+            ],
+            [
+              369580.97530000005,
+              3309024.1141999997
+            ],
+            [
+              369580.4124999996,
+              3309024.3002000004
+            ],
+            [
+              369575.79810000025,
+              3309025.825099999
+            ],
+            [
+              369572.9994000001,
+              3309035.6063
+            ],
+            [
+              369568.9018000001,
+              3309046.2865999993
+            ],
+            [
+              369568.92929999996,
+              3309048.4771
+            ],
+            [
+              369568.9972000001,
+              3309053.8823000006
+            ],
+            [
+              369562.64719999954,
+              3309064.2839
+            ],
+            [
+              369561.426,
+              3309063.9532999992
+            ],
+            [
+              369560.8437999999,
+              3309065.201199999
+            ],
+            [
+              369560.75519999955,
+              3309065.3981
+            ],
+            [
+              369560.4495000001,
+              3309066.1176999994
+            ],
+            [
+              369540.1617999999,
+              3309113.271400001
+            ],
+            [
+              369535.57070000004,
+              3309124.6372999996
+            ],
+            [
+              369533.9967,
+              3309128.2576
+            ],
+            [
+              369524.1003999999,
+              3309150.8429000005
+            ],
+            [
+              369513.4797,
+              3309175.761600001
+            ],
+            [
+              369501.29580000043,
+              3309204.3968
+            ],
+            [
+              369493.9506999999,
+              3309221.7137
+            ],
+            [
+              369492.8622000003,
+              3309224.4727
+            ],
+            [
+              369492.57930000033,
+              3309227.1511000004
+            ],
+            [
+              369492.9595999997,
+              3309229.2718
+            ],
+            [
+              369493.1456000004,
+              3309230.308700001
+            ],
+            [
+              369495.42059999984,
+              3309233.5599000007
+            ],
+            [
+              369492.6366999997,
+              3309238.3707
+            ],
+            [
+              369481.3365000002,
+              3309259.7584000006
+            ],
+            [
+              369478.70469999965,
+              3309265.3257
+            ],
+            [
+              369478.60030000005,
+              3309265.5578000005
+            ],
+            [
+              369476.2131000003,
+              3309270.6176999994
+            ],
+            [
+              369467.57320000045,
+              3309293.318600001
+            ],
+            [
+              369467.34449999966,
+              3309293.9056
+            ],
+            [
+              369464.4595999997,
+              3309300.227499999
+            ],
+            [
+              369463.88609999977,
+              3309300.0375999995
+            ],
+            [
+              369461.8092,
+              3309299.408500001
+            ],
+            [
+              369458.43039999995,
+              3309306.7068000007
+            ],
+            [
+              369451.82969999965,
+              3309321.130000001
+            ],
+            [
+              369443.42030000035,
+              3309339.8246999998
+            ],
+            [
+              369441.84949999955,
+              3309343.3167000003
+            ],
+            [
+              369435.42679999955,
+              3309357.9757000003
+            ],
+            [
+              369412.2441999996,
+              3309409.9374
+            ],
+            [
+              369405.55929999985,
+              3309424.9212999996
+            ],
+            [
+              369403.5031000003,
+              3309429.5297999997
+            ],
+            [
+              369406.34190000035,
+              3309440.2073999997
+            ],
+            [
+              369407.99729999993,
+              3309446.433700001
+            ],
+            [
+              369408.6042999998,
+              3309448.716600001
+            ],
+            [
+              369408.40440000035,
+              3309448.7069000006
+            ],
+            [
+              369408.0044999998,
+              3309448.7027000003
+            ],
+            [
+              369407.60479999986,
+              3309448.7191000003
+            ],
+            [
+              369407.4053999996,
+              3309448.7353000008
+            ],
+            [
+              369407.0081000002,
+              3309448.7830999997
+            ],
+            [
+              369406.81070000026,
+              3309448.8147
+            ],
+            [
+              369406.41839999985,
+              3309448.893100001
+            ],
+            [
+              369405.83910000045,
+              3309449.0491000004
+            ],
+            [
+              369405.0888,
+              3309449.3260999992
+            ],
+            [
+              369404.90610000025,
+              3309449.4075000007
+            ],
+            [
+              369404.37150000036,
+              3309449.6798
+            ],
+            [
+              369403.85950000025,
+              3309449.992799999
+            ],
+            [
+              369403.53259999957,
+              3309450.2234000005
+            ],
+            [
+              369403.0658,
+              3309450.600299999
+            ],
+            [
+              369402.92080000043,
+              3309450.737299999
+            ],
+            [
+              369402.62990000006,
+              3309451.0123999994
+            ],
+            [
+              369402.35759999976,
+              3309451.3055000007
+            ],
+            [
+              369401.6372999996,
+              3309452.2640000004
+            ],
+            [
+              369401.37909999955,
+              3309452.705600001
+            ],
+            [
+              369401.24370000046,
+              3309452.9605
+            ],
+            [
+              369401.1568999998,
+              3309453.1404999997
+            ],
+            [
+              369400.0948000001,
+              3309455.825099999
+            ],
+            [
+              369382.0998999998,
+              3309501.312999999
+            ],
+            [
+              369383.2363999998,
+              3309501.7885
+            ],
+            [
+              369380.23730000015,
+              3309509.5799000002
+            ],
+            [
+              369378.9819,
+              3309509.1861000005
+            ],
+            [
+              369370.5860000001,
+              3309530.3817
+            ],
+            [
+              369361.44859999977,
+              3309553.6151
+            ],
+            [
+              369359.87509999983,
+              3309557.6328999996
+            ],
+            [
+              369355.44039999973,
+              3309568.9569000006
+            ],
+            [
+              369354.8169,
+              3309570.5867
+            ],
+            [
+              369356.0126,
+              3309571.0538999997
+            ],
+            [
+              369352.99540000036,
+              3309578.7775
+            ],
+            [
+              369351.8317,
+              3309578.3309000004
+            ],
+            [
+              369347.6442999998,
+              3309589.061899999
+            ],
+            [
+              369346.0421000002,
+              3309593.240599999
+            ],
+            [
+              369345.2383000003,
+              3309595.337200001
+            ],
+            [
+              369346.4313000003,
+              3309595.8399
+            ],
+            [
+              369344.6479000002,
+              3309600.0704999994
+            ],
+            [
+              369342.91619999986,
+              3309603.804199999
+            ],
+            [
+              369342.0692999996,
+              3309603.4671
+            ],
+            [
+              369341.8530000001,
+              3309603.380999999
+            ],
+            [
+              369341.0658999998,
+              3309605.3587999996
+            ],
+            [
+              369334.0499999998,
+              3309622.9893999994
+            ],
+            [
+              369331.9748999998,
+              3309628.5648
+            ],
+            [
+              369331.8421,
+              3309628.9266
+            ],
+            [
+              369330.97310000006,
+              3309631.5493
+            ],
+            [
+              369330.4062000001,
+              3309633.2674000002
+            ],
+            [
+              369329.0672000004,
+              3309637.4630999994
+            ],
+            [
+              369328.3798000002,
+              3309638.8839999996
+            ],
+            [
+              369326.5268000001,
+              3309642.679300001
+            ],
+            [
+              369325.67590000015,
+              3309644.194599999
+            ],
+            [
+              369323.90780000016,
+              3309647.8177000005
+            ],
+            [
+              369315.6741000004,
+              3309664.7873
+            ],
+            [
+              369304.55030000024,
+              3309687.1448999997
+            ],
+            [
+              369301.8426000001,
+              3309692.6106000002
+            ],
+            [
+              369298.9307000004,
+              3309698.533399999
+            ],
+            [
+              369294.63019999955,
+              3309707.2805000003
+            ],
+            [
+              369291.29509999976,
+              3309714.0911999997
+            ],
+            [
+              369292.34190000035,
+              3309714.5623000003
+            ],
+            [
+              369291.3426000001,
+              3309716.7360999994
+            ],
+            [
+              369290.2525000004,
+              3309716.230799999
+            ],
+            [
+              369289.75210000016,
+              3309717.216499999
+            ],
+            [
+              369289.1286000004,
+              3309718.4849999994
+            ],
+            [
+              369288.6487999996,
+              3309719.4812000003
+            ],
+            [
+              369289.7056999998,
+              3309720.0429999996
+            ],
+            [
+              369288.6643000003,
+              3309722.0965
+            ],
+            [
+              369287.6163999997,
+              3309721.589400001
+            ],
+            [
+              369274.07579999976,
+              3309749.1856999993
+            ],
+            [
+              369275.1506000003,
+              3309749.6908
+            ],
+            [
+              369274.13210000005,
+              3309751.8244000003
+            ],
+            [
+              369273.02720000036,
+              3309751.2969000004
+            ],
+            [
+              369272.58330000006,
+              3309752.2008999996
+            ],
+            [
+              369271.4813000001,
+              3309754.5244999994
+            ],
+            [
+              369272.5195000004,
+              3309755.0365999993
+            ],
+            [
+              369271.5070000002,
+              3309757.170499999
+            ],
+            [
+              369270.44070000015,
+              3309756.6689999998
+            ],
+            [
+              369267.3973000003,
+              3309762.6457
+            ],
+            [
+              369266.6489000004,
+              3309764.199100001
+            ],
+            [
+              369266.8315000003,
+              3309764.2891000006
+            ],
+            [
+              369267.4327999996,
+              3309764.5858999994
+            ],
+            [
+              369266.4190999996,
+              3309766.6395999994
+            ],
+            [
+              369265.8521999996,
+              3309766.3424999993
+            ],
+            [
+              369265.6738999998,
+              3309766.2491999995
+            ],
+            [
+              369260.0301999999,
+              3309777.5963000003
+            ],
+            [
+              369260.31769999955,
+              3309777.7391
+            ],
+            [
+              369260.77550000045,
+              3309777.9667000007
+            ],
+            [
+              369259.3376000002,
+              3309780.466
+            ],
+            [
+              369259.0608000001,
+              3309780.3025
+            ],
+            [
+              369258.3598999996,
+              3309779.8885999992
+            ],
+            [
+              369257.34140000027,
+              3309781.281300001
+            ],
+            [
+              369258.0675999997,
+              3309781.8123000003
+            ],
+            [
+              369258.21630000044,
+              3309781.921
+            ],
+            [
+              369256.26209999993,
+              3309784.4988
+            ],
+            [
+              369255.3454,
+              3309783.9579000007
+            ],
+            [
+              369253.5599999996,
+              3309786.2874
+            ],
+            [
+              369254.4678999996,
+              3309786.8916999996
+            ],
+            [
+              369253.33770000003,
+              3309788.4715
+            ],
+            [
+              369252.4012000002,
+              3309787.9459000006
+            ],
+            [
+              369250.63709999993,
+              3309790.2216999996
+            ],
+            [
+              369251.5712000001,
+              3309790.8958
+            ],
+            [
+              369250.28830000013,
+              3309792.5376999993
+            ],
+            [
+              369249.3844999997,
+              3309791.9981999993
+            ],
+            [
+              369247.5691999998,
+              3309794.3418000005
+            ],
+            [
+              369248.4752000002,
+              3309794.9515000004
+            ],
+            [
+              369247.28029999975,
+              3309796.5781999994
+            ],
+            [
+              369247.14609999955,
+              3309796.492799999
+            ],
+            [
+              369246.33660000004,
+              3309795.9772999994
+            ],
+            [
+              369244.5223000003,
+              3309798.3488
+            ],
+            [
+              369245.2131000003,
+              3309798.8247999996
+            ],
+            [
+              369245.4801000003,
+              3309799.0088
+            ],
+            [
+              369244.26130000036,
+              3309800.5688000005
+            ],
+            [
+              369243.93709999975,
+              3309800.3641999997
+            ],
+            [
+              369243.39180000033,
+              3309800.0204000007
+            ],
+            [
+              369241.55989999976,
+              3309802.3216999993
+            ],
+            [
+              369242.00540000014,
+              3309802.6944999993
+            ],
+            [
+              369242.37629999965,
+              3309803.0047999993
+            ],
+            [
+              369242.0126,
+              3309803.4487999994
+            ],
+            [
+              369241.2474999996,
+              3309803.6087999996
+            ],
+            [
+              369241.0948000001,
+              3309803.6407999992
+            ],
+            [
+              369240.7726999996,
+              3309803.494999999
+            ],
+            [
+              369238.6035000002,
+              3309806.6643000003
+            ],
+            [
+              369237.0921,
+              3309809.8868000004
+            ],
+            [
+              369236.39439999964,
+              3309811.3746000007
+            ],
+            [
+              369235.9787999997,
+              3309812.5001999997
+            ],
+            [
+              369235.4729000004,
+              3309813.2556
+            ],
+            [
+              369234.4771999996,
+              3309813.17
+            ],
+            [
+              369233.6897,
+              3309815.671
+            ],
+            [
+              369231.9060000004,
+              3309826.167300001
+            ],
+            [
+              369231.3069000002,
+              3309828.5359000005
+            ],
+            [
+              369231.8485000003,
+              3309828.6907
+            ],
+            [
+              369232.97360000014,
+              3309829.0122999996
+            ],
+            [
+              369232.22200000007,
+              3309832.2676999997
+            ],
+            [
+              369229.76290000044,
+              3309832.818
+            ],
+            [
+              369229.6545000002,
+              3309832.3336999994
+            ],
+            [
+              369229.5240000002,
+              3309831.7508000005
+            ],
+            [
+              369228.4791000001,
+              3309831.9784999993
+            ],
+            [
+              369226.3088999996,
+              3309832.4519999996
+            ],
+            [
+              369225.12600000016,
+              3309832.7093
+            ],
+            [
+              369225.31319999974,
+              3309833.7641000003
+            ],
+            [
+              369224.5136000002,
+              3309833.9931000005
+            ],
+            [
+              369224.0318999998,
+              3309834.1170000006
+            ],
+            [
+              369223.60390000045,
+              3309834.1966999993
+            ],
+            [
+              369221.19180000015,
+              3309834.7366000004
+            ],
+            [
+              369221.13350000046,
+              3309834.4761999995
+            ],
+            [
+              369220.9232000001,
+              3309833.5363
+            ],
+            [
+              369220.17030000035,
+              3309833.7326999996
+            ],
+            [
+              369217.5650000004,
+              3309834.2968000006
+            ],
+            [
+              369216.57919999957,
+              3309834.4661999997
+            ],
+            [
+              369215.4855000004,
+              3309834.676999999
+            ],
+            [
+              369214.4801000003,
+              3309834.6711999997
+            ],
+            [
+              369213.7412999999,
+              3309834.9032000005
+            ],
+            [
+              369213.8727000002,
+              3309835.2978000008
+            ],
+            [
+              369214.2062999997,
+              3309836.3003000002
+            ],
+            [
+              369210.5689000003,
+              3309835.7414999995
+            ],
+            [
+              369207.25490000006,
+              3309835.6648999993
+            ],
+            [
+              369205.34339999966,
+              3309836.1895000003
+            ],
+            [
+              369199.8474000003,
+              3309837.697899999
+            ],
+            [
+              369198.9282999998,
+              3309837.950200001
+            ],
+            [
+              369191.7407999998,
+              3309840.1514999997
+            ],
+            [
+              369188.27799999993,
+              3309841.2292
+            ],
+            [
+              369171.90639999975,
+              3309845.9091
+            ],
+            [
+              369172.3351999996,
+              3309847.739
+            ],
+            [
+              369168.91449999996,
+              3309848.8231000006
+            ],
+            [
+              369164.4582000002,
+              3309849.6624999996
+            ],
+            [
+              369162.90639999975,
+              3309850.2205
+            ],
+            [
+              369162.1420999998,
+              3309848.0951000005
+            ],
+            [
+              369160.7248999998,
+              3309848.4968999997
+            ],
+            [
+              369157.82650000043,
+              3309849.2238999996
+            ],
+            [
+              369157.23369999975,
+              3309849.3829999994
+            ],
+            [
+              369151.4434000002,
+              3309851.048699999
+            ],
+            [
+              369151.35140000004,
+              3309850.8257
+            ],
+            [
+              369148.2156999996,
+              3309843.4635000005
+            ],
+            [
+              369144.9358999999,
+              3309835.7732999995
+            ],
+            [
+              369150.29360000044,
+              3309832.701300001
+            ],
+            [
+              369154.5712000001,
+              3309829.8988000005
+            ],
+            [
+              369153.95710000023,
+              3309828.8115999997
+            ],
+            [
+              369153.58079999965,
+              3309828.1456000004
+            ],
+            [
+              369166.6662999997,
+              3309819.8889000006
+            ],
+            [
+              369167.4639999997,
+              3309821.2722999994
+            ],
+            [
+              369167.70469999965,
+              3309821.6898
+            ],
+            [
+              369171.68010000046,
+              3309819.3970999997
+            ],
+            [
+              369178.7807,
+              3309815.099300001
+            ],
+            [
+              369180.80869999994,
+              3309813.8236
+            ],
+            [
+              369181.14470000006,
+              3309813.6205
+            ],
+            [
+              369181.56230000034,
+              3309813.3905999996
+            ],
+            [
+              369181.86149999965,
+              3309813.2207999993
+            ],
+            [
+              369183.9900000002,
+              3309812.057600001
+            ],
+            [
+              369189.3326000003,
+              3309808.7082
+            ],
+            [
+              369199.4040000001,
+              3309803.733100001
+            ],
+            [
+              369202.6051000003,
+              3309802.1458
+            ],
+            [
+              369204.5022999998,
+              3309801.3517000005
+            ],
+            [
+              369204.4469999997,
+              3309801.2106
+            ],
+            [
+              369203.9020999996,
+              3309799.8170999996
+            ],
+            [
+              369206.42810000014,
+              3309798.7797999997
+            ],
+            [
+              369207.017,
+              3309800.1125000007
+            ],
+            [
+              369211.26329999976,
+              3309798.238399999
+            ],
+            [
+              369212.4951999998,
+              3309797.686899999
+            ],
+            [
+              369212.7309999997,
+              3309797.5405
+            ],
+            [
+              369220.74710000027,
+              3309791.7819
+            ],
+            [
+              369219.90639999975,
+              3309790.6889999993
+            ],
+            [
+              369221.392,
+              3309789.3331000004
+            ],
+            [
+              369222.1065999996,
+              3309790.1798
+            ],
+            [
+              369222.8673999999,
+              3309789.534600001
+            ],
+            [
+              369224.6191999996,
+              3309787.4211999997
+            ],
+            [
+              369225.50430000015,
+              3309786.8367
+            ],
+            [
+              369224.7533999998,
+              3309785.5899
+            ],
+            [
+              369225.95330000017,
+              3309784.4779000003
+            ],
+            [
+              369227.2363999998,
+              3309784.9515000004
+            ],
+            [
+              369231.81060000043,
+              3309773.0358000007
+            ],
+            [
+              369232.8519000001,
+              3309773.5648
+            ],
+            [
+              369233.6964999996,
+              3309771.9023
+            ],
+            [
+              369232.6551999999,
+              3309771.373299999
+            ],
+            [
+              369233.3985000001,
+              3309769.9442
+            ],
+            [
+              369234.47979999986,
+              3309770.3825000003
+            ],
+            [
+              369234.91309999954,
+              3309769.410700001
+            ],
+            [
+              369233.62310000043,
+              3309768.816299999
+            ],
+            [
+              369233.9637000002,
+              3309768.0176
+            ],
+            [
+              369235.2457999997,
+              3309768.677100001
+            ],
+            [
+              369235.9165000003,
+              3309767.264799999
+            ],
+            [
+              369240.66000000015,
+              3309757.6220999993
+            ],
+            [
+              369241.2167999996,
+              3309756.4459000006
+            ],
+            [
+              369245.23730000015,
+              3309746.805400001
+            ],
+            [
+              369246.68840000033,
+              3309742.4825
+            ],
+            [
+              369247.6853,
+              3309742.9981999993
+            ],
+            [
+              369248.41980000027,
+              3309741.5782999992
+            ],
+            [
+              369247.42310000025,
+              3309741.0626
+            ],
+            [
+              369248.37090000045,
+              3309738.8260999992
+            ],
+            [
+              369251.61760000046,
+              3309732.3648000006
+            ],
+            [
+              369252.66559999995,
+              3309732.874399999
+            ],
+            [
+              369261.70210000034,
+              3309714.2530000005
+            ],
+            [
+              369263.09449999966,
+              3309711.3450000007
+            ],
+            [
+              369261.8399,
+              3309711.0953
+            ],
+            [
+              369261.82940000016,
+              3309710.8234
+            ],
+            [
+              369262.88960000034,
+              3309708.9739999995
+            ],
+            [
+              369263.8981999997,
+              3309709.6099999994
+            ],
+            [
+              369264.83719999995,
+              3309707.6632000003
+            ],
+            [
+              369265.2002999997,
+              3309706.9102999996
+            ],
+            [
+              369264.1497999998,
+              3309706.3577999994
+            ],
+            [
+              369270.7684000004,
+              3309692.9223999996
+            ],
+            [
+              369271.73699999973,
+              3309693.4213999994
+            ],
+            [
+              369272.82550000027,
+              3309691.1186999995
+            ],
+            [
+              369273.45249999966,
+              3309689.8567999993
+            ],
+            [
+              369272.4064999996,
+              3309689.3716
+            ],
+            [
+              369272.676,
+              3309688.7905
+            ],
+            [
+              369273.5390999997,
+              3309687.0987
+            ],
+            [
+              369274.57830000017,
+              3309687.5851000007
+            ],
+            [
+              369274.6783999996,
+              3309687.396299999
+            ],
+            [
+              369275.23620000016,
+              3309686.3444999997
+            ],
+            [
+              369275.86319999956,
+              3309684.946900001
+            ],
+            [
+              369278.8998999996,
+              3309677.9093999993
+            ],
+            [
+              369279.2121000001,
+              3309678.023600001
+            ],
+            [
+              369280.16199999955,
+              3309678.3708999995
+            ],
+            [
+              369284.51570000034,
+              3309667.1097
+            ],
+            [
+              369289.23610000033,
+              3309657.3257
+            ],
+            [
+              369289.62509999983,
+              3309656.5428
+            ],
+            [
+              369288.7106999997,
+              3309655.9915999994
+            ],
+            [
+              369290.70040000044,
+              3309652.2862
+            ],
+            [
+              369291.5016999999,
+              3309652.6993000004
+            ],
+            [
+              369295.9595999997,
+              3309643.4904999994
+            ],
+            [
+              369297.38939999975,
+              3309640.519099999
+            ],
+            [
+              369298.4020999996,
+              3309638.4464999996
+            ],
+            [
+              369298.51999999955,
+              3309638.2051999997
+            ],
+            [
+              369297.6782999998,
+              3309637.7774
+            ],
+            [
+              369297.9031999996,
+              3309635.7557999995
+            ],
+            [
+              369298.3925000001,
+              3309635.9244999997
+            ],
+            [
+              369298.4743999997,
+              3309633.3917999994
+            ],
+            [
+              369299.1350999996,
+              3309632.0397999994
+            ],
+            [
+              369300.18400000036,
+              3309629.1812999994
+            ],
+            [
+              369300.6366999997,
+              3309629.2972999997
+            ],
+            [
+              369300.76520000026,
+              3309628.8775999993
+            ],
+            [
+              369303.89070000034,
+              3309624.838199999
+            ],
+            [
+              369306.63210000005,
+              3309621.2952999994
+            ],
+            [
+              369307.1783999996,
+              3309621.0187
+            ],
+            [
+              369307.6003999999,
+              3309620.6575000007
+            ],
+            [
+              369307.9439000003,
+              3309620.2283999994
+            ],
+            [
+              369308.2178999996,
+              3309619.6514999997
+            ],
+            [
+              369309.4896999998,
+              3309615.846999999
+            ],
+            [
+              369311.5990000004,
+              3309609.9793999996
+            ],
+            [
+              369312.0455,
+              3309608.7376000006
+            ],
+            [
+              369312.71559999976,
+              3309606.8731999993
+            ],
+            [
+              369313.57600000035,
+              3309604.0735
+            ],
+            [
+              369314.42619999964,
+              3309601.532299999
+            ],
+            [
+              369314.2132000001,
+              3309601.460999999
+            ],
+            [
+              369313.7276999997,
+              3309601.298699999
+            ],
+            [
+              369315.06900000013,
+              3309597.3576999996
+            ],
+            [
+              369315.63829999976,
+              3309597.4967
+            ],
+            [
+              369315.9129999997,
+              3309597.5637
+            ],
+            [
+              369317.05649999995,
+              3309594.323000001
+            ],
+            [
+              369321.2424999997,
+              3309582.4617999997
+            ],
+            [
+              369321.07359999977,
+              3309582.3771
+            ],
+            [
+              369320.40469999984,
+              3309582.0416
+            ],
+            [
+              369321.1656999998,
+              3309579.653000001
+            ],
+            [
+              369321.9678999996,
+              3309579.8893999998
+            ],
+            [
+              369322.1699000001,
+              3309579.948999999
+            ],
+            [
+              369323.3128000004,
+              3309576.7782000005
+            ],
+            [
+              369323.1102,
+              3309576.7119999994
+            ],
+            [
+              369321.9325000001,
+              3309576.3268999998
+            ],
+            [
+              369324.6649000002,
+              3309568.781199999
+            ],
+            [
+              369325.8102000002,
+              3309569.201199999
+            ],
+            [
+              369325.9451000001,
+              3309569.2507000007
+            ],
+            [
+              369327.3875000002,
+              3309565.2279000003
+            ],
+            [
+              369327.88879999984,
+              3309563.8642999995
+            ],
+            [
+              369327.72310000006,
+              3309563.8033000007
+            ],
+            [
+              369326.5856999997,
+              3309563.3851999994
+            ],
+            [
+              369327.1917000003,
+              3309561.7371999994
+            ],
+            [
+              369328.35560000036,
+              3309562.0929000005
+            ],
+            [
+              369329.051,
+              3309560.0314000007
+            ],
+            [
+              369337.00320000015,
+              3309534.8203999996
+            ],
+            [
+              369337.84190000035,
+              3309535.0867
+            ],
+            [
+              369338.0734000001,
+              3309534.4020000007
+            ],
+            [
+              369338.4883000003,
+              3309533.1407999992
+            ],
+            [
+              369337.6239,
+              3309532.865700001
+            ],
+            [
+              369338.3421,
+              3309530.786699999
+            ],
+            [
+              369339.25769999996,
+              3309531.09
+            ],
+            [
+              369350.2232999997,
+              3309499.9826999996
+            ],
+            [
+              369364.2292999998,
+              3309460.2764999997
+            ],
+            [
+              369365.53699999955,
+              3309456.2687
+            ],
+            [
+              369366.8258999996,
+              3309452.455
+            ],
+            [
+              369384.2511,
+              3309399.970899999
+            ],
+            [
+              369385.02969999984,
+              3309397.6258000005
+            ],
+            [
+              369385.1227000002,
+              3309397.0129000004
+            ],
+            [
+              369385.11539999954,
+              3309396.4582
+            ],
+            [
+              369385.0071999999,
+              3309395.6602999996
+            ],
+            [
+              369384.9166000001,
+              3309394.9762999993
+            ],
+            [
+              369384.7909000004,
+              3309394.3551000003
+            ],
+            [
+              369384.60730000027,
+              3309393.7700999994
+            ],
+            [
+              369384.3063000003,
+              3309393.2194
+            ],
+            [
+              369383.9726999998,
+              3309392.6854
+            ],
+            [
+              369383.65660000034,
+              3309392.2327999994
+            ],
+            [
+              369382.7067,
+              3309391.0187
+            ],
+            [
+              369383.3239000002,
+              3309387.7953999992
+            ],
+            [
+              369384.0270999996,
+              3309385.997199999
+            ],
+            [
+              369384.73039999977,
+              3309384.198999999
+            ],
+            [
+              369386.0628000004,
+              3309382.027899999
+            ],
+            [
+              369387.2348999996,
+              3309382.1437999997
+            ],
+            [
+              369388.34690000024,
+              3309382.0467000008
+            ],
+            [
+              369389.84580000024,
+              3309381.5946999993
+            ],
+            [
+              369391.7814999996,
+              3309380.5482
+            ],
+            [
+              369392.26939999964,
+              3309380.284499999
+            ],
+            [
+              369395.1087999996,
+              3309378.3422999997
+            ],
+            [
+              369395.3201000001,
+              3309378.1898999996
+            ],
+            [
+              369419.4389000004,
+              3309330.203400001
+            ],
+            [
+              369435.56240000017,
+              3309298.2031999994
+            ],
+            [
+              369438.73220000044,
+              3309291.9475999996
+            ],
+            [
+              369440.56909999996,
+              3309288.3225
+            ],
+            [
+              369444.80260000005,
+              3309280.4547000006
+            ],
+            [
+              369444.5817,
+              3309280.3299000002
+            ],
+            [
+              369425.56039999984,
+              3309269.5819000006
+            ],
+            [
+              369435.72310000006,
+              3309247.4801000003
+            ],
+            [
+              369438.2675999999,
+              3309242.0692
+            ],
+            [
+              369440.8326000003,
+              3309236.6149000004
+            ],
+            [
+              369452.5368999997,
+              3309213.9859999996
+            ],
+            [
+              369474.5367999999,
+              3309224.1666
+            ],
+            [
+              369475.0081000002,
+              3309224.3847000003
+            ],
+            [
+              369483.0990000004,
+              3309204.669500001
+            ],
+            [
+              369485.6420999998,
+              3309198.5494
+            ],
+            [
+              369494.1803000001,
+              3309177.6229999997
+            ],
+            [
+              369498.1146999998,
+              3309166.7575000003
+            ],
+            [
+              369498.7132000001,
+              3309165.2553000003
+            ],
+            [
+              369499.8905999996,
+              3309161.9066000003
+            ],
+            [
+              369500.4581000004,
+              3309160.2929999996
+            ],
+            [
+              369499.6913999999,
+              3309159.0292000007
+            ],
+            [
+              369499.69269999955,
+              3309158.8827
+            ],
+            [
+              369499.6727999998,
+              3309157.4407
+            ],
+            [
+              369499.18200000003,
+              3309155.493899999
+            ],
+            [
+              369498.82579999976,
+              3309154.0809000004
+            ],
+            [
+              369497.324,
+              3309149.766899999
+            ],
+            [
+              369496.3080000002,
+              3309145.7675
+            ],
+            [
+              369495.8847000003,
+              3309141.0661999993
+            ],
+            [
+              369496.0281999996,
+              3309139.2420000006
+            ],
+            [
+              369496.3607000001,
+              3309137.3329000007
+            ],
+            [
+              369498.3454,
+              3309132.8445999995
+            ],
+            [
+              369498.62119999994,
+              3309131.778000001
+            ],
+            [
+              369498.6668999996,
+              3309130.7766999993
+            ],
+            [
+              369498.7399000004,
+              3309128.1262999997
+            ],
+            [
+              369499.3044999996,
+              3309126.6115000006
+            ],
+            [
+              369501.33579999954,
+              3309123.8060999997
+            ],
+            [
+              369506.2655999996,
+              3309117.2317999993
+            ],
+            [
+              369507.35369999986,
+              3309115.0342999995
+            ],
+            [
+              369518.49629999977,
+              3309090.7037000004
+            ],
+            [
+              369529.7580000004,
+              3309066.9999
+            ],
+            [
+              369533.19049999956,
+              3309058.6381
+            ],
+            [
+              369536.16229999997,
+              3309050.6591
+            ],
+            [
+              369540.6775000002,
+              3309036.8156000003
+            ],
+            [
+              369541.8356999997,
+              3309032.9685999993
+            ],
+            [
+              369542.5142999999,
+              3309030.3323999997
+            ],
+            [
+              369542.62760000024,
+              3309028.772500001
+            ],
+            [
+              369542.34300000034,
+              3309026.6034999993
+            ],
+            [
+              369543.0264999997,
+              3309025.0667000003
+            ],
+            [
+              369547.26779999956,
+              3309015.5435000006
+            ],
+            [
+              369548.76389999967,
+              3309012.6062000003
+            ],
+            [
+              369566.7111999998,
+              3308978.060799999
+            ],
+            [
+              369567.6621000003,
+              3308978.6323000006
+            ],
+            [
+              369568.4894000003,
+              3308977.256100001
+            ],
+            [
+              369567.6152999997,
+              3308976.7305999994
+            ],
+            [
+              369568.3800999997,
+              3308975.7283999994
+            ],
+            [
+              369568.6807000004,
+              3308975.8946
+            ],
+            [
+              369571.63609999977,
+              3308970.1953
+            ],
+            [
+              369572.8661000002,
+              3308967.528000001
+            ],
+            [
+              369579.1666000001,
+              3308953.3433999997
+            ],
+            [
+              369582.0116999997,
+              3308946.9376
+            ],
+            [
+              369582.6171000004,
+              3308945.575099999
+            ],
+            [
+              369598.3229,
+              3308913.3007999994
+            ],
+            [
+              369599.12349999975,
+              3308913.6746999994
+            ],
+            [
+              369599.2292999998,
+              3308913.4483000003
+            ],
+            [
+              369599.80069999956,
+              3308910.6032
+            ],
+            [
+              369600.04679999966,
+              3308908.6676000003
+            ],
+            [
+              369600.36870000046,
+              3308907.145300001
+            ],
+            [
+              369601.05319999997,
+              3308905.196900001
+            ],
+            [
+              369605.3682000004,
+              3308892.5810000002
+            ],
+            [
+              369606.71219999995,
+              3308888.8858000003
+            ],
+            [
+              369608.1798999999,
+              3308884.358100001
+            ],
+            [
+              369609.24230000004,
+              3308880.5517999995
+            ],
+            [
+              369612.7867999999,
+              3308868.644200001
+            ],
+            [
+              369613.6595999999,
+              3308865.8322
+            ],
+            [
+              369614.7101999996,
+              3308862.0331999995
+            ],
+            [
+              369614.81039999984,
+              3308861.0384
+            ],
+            [
+              369614.8772999998,
+              3308860.3748000003
+            ],
+            [
+              369614.8298000004,
+              3308858.5637999997
+            ],
+            [
+              369614.39859999996,
+              3308856.6043
+            ],
+            [
+              369613.62930000015,
+              3308854.4771
+            ],
+            [
+              369612.7971000001,
+              3308852.8287000004
+            ],
+            [
+              369611.2893000003,
+              3308850.6076999996
+            ],
+            [
+              369609.34860000014,
+              3308848.1301000006
+            ],
+            [
+              369608.1436999999,
+              3308847.1922999993
+            ],
+            [
+              369609.3180999998,
+              3308846.3387
+            ],
+            [
+              369618.9298999999,
+              3308839.3522999994
+            ],
+            [
+              369623.6423000004,
+              3308835.927100001
+            ],
+            [
+              369624.3387000002,
+              3308835.4208000004
+            ],
+            [
+              369633.11670000013,
+              3308819.1428999994
+            ],
+            [
+              369640.3674999997,
+              3308805.6971000005
+            ],
+            [
+              369642.5987999998,
+              3308803.2193
+            ],
+            [
+              369651.65249999985,
+              3308784.3594000004
+            ],
+            [
+              369664.21949999966,
+              3308758.1811999995
+            ],
+            [
+              369664.7114000004,
+              3308755.1761000007
+            ],
+            [
+              369682.8130000001,
+              3308716.3407000005
+            ],
+            [
+              369683.62849999964,
+              3308714.4594
+            ],
+            [
+              369693.2457999997,
+              3308693.8213
+            ],
+            [
+              369693.39240000024,
+              3308693.440300001
+            ],
+            [
+              369694.11089999974,
+              3308691.5583999995
+            ],
+            [
+              369694.3060999997,
+              3308691.1293
+            ],
+            [
+              369694.7315999996,
+              3308690.0873000007
+            ],
+            [
+              369695.6224999996,
+              3308687.9065000005
+            ],
+            [
+              369696.2854000004,
+              3308686.2112000007
+            ],
+            [
+              369697.17480000015,
+              3308683.8779000007
+            ],
+            [
+              369697.79200000037,
+              3308682.2589
+            ],
+            [
+              369699.56510000024,
+              3308677.8027999997
+            ],
+            [
+              369714.64940000046,
+              3308640.1082000006
+            ],
+            [
+              369725.18429999985,
+              3308613.737299999
+            ],
+            [
+              369733.17819999997,
+              3308593.2459999993
+            ],
+            [
+              369735.72860000003,
+              3308587.1532000005
+            ],
+            [
+              369735.8173000002,
+              3308586.9192999993
+            ],
+            [
+              369739.18659999967,
+              3308577.1034999993
+            ],
+            [
+              369739.9556,
+              3308574.863399999
+            ],
+            [
+              369737.6842,
+              3308568.8323
+            ],
+            [
+              369735.44969999976,
+              3308566.011499999
+            ],
+            [
+              369735.10560000036,
+              3308564.6786
+            ],
+            [
+              369735.37710000016,
+              3308563.3555999994
+            ],
+            [
+              369735.83220000006,
+              3308561.975400001
+            ],
+            [
+              369738.8633000003,
+              3308554.9387999997
+            ],
+            [
+              369744.32749999966,
+              3308541.7783000004
+            ],
+            [
+              369747.9201999996,
+              3308533.1252999995
+            ],
+            [
+              369751.20889999997,
+              3308525.2141999993
+            ],
+            [
+              369761.3202999998,
+              3308506.3159
+            ],
+            [
+              369764.89300000016,
+              3308497.811899999
+            ],
+            [
+              369783.5842000004,
+              3308453.3211000003
+            ],
+            [
+              369783.28170000017,
+              3308453.1516999993
+            ],
+            [
+              369780.76680000033,
+              3308451.7434
+            ],
+            [
+              369780.85830000043,
+              3308451.5150000006
+            ],
+            [
+              369784.06850000005,
+              3308443.5090999994
+            ],
+            [
+              369789.32820000034,
+              3308430.6273999996
+            ],
+            [
+              369789.4260999998,
+              3308430.4186000004
+            ],
+            [
+              369794.0859000003,
+              3308418.8783
+            ],
+            [
+              369806.94930000044,
+              3308387.4154000003
+            ],
+            [
+              369809.97780000046,
+              3308380.1643000003
+            ],
+            [
+              369810.93429999985,
+              3308377.8050999995
+            ],
+            [
+              369819.76860000007,
+              3308356.5001999997
+            ],
+            [
+              369823.48649999965,
+              3308348.682499999
+            ],
+            [
+              369829.8312999997,
+              3308333.2202000003
+            ],
+            [
+              369832.14190000016,
+              3308327.5895000007
+            ],
+            [
+              369833.1838999996,
+              3308325.5040000007
+            ],
+            [
+              369834.3618000001,
+              3308323.146299999
+            ],
+            [
+              369838.37600000016,
+              3308315.791200001
+            ],
+            [
+              369845.2876000004,
+              3308303.1274999995
+            ],
+            [
+              369849.0197999999,
+              3308295.5492000002
+            ],
+            [
+              369851.2599999998,
+              3308291.1466000006
+            ],
+            [
+              369871.3298000004,
+              3308295.59
+            ],
+            [
+              369892.8534000004,
+              3308300.3551000003
+            ],
+            [
+              369896.70380000025,
+              3308301.2074999996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "NAME": "渡驾桥江",
+        "LX": "河道"
+      }
+    }
+  ]
+}
